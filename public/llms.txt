@@ -1,0 +1,109 @@
+# Tzizin's — Generative Engine Optimization Map
+
+> An online fashion store inspired by a bold mix of global style influences — combining the casual Americana vibe of Old Navy, the trendy urban energy of Bershka and Zara, the edgy streetwear attitude of Addict, and the ornate, romantic flair of De Rococo. The brand blends accessible everyday fashion with high-style aesthetic references, creating a unique multi-cultural wardrobe experience that appeals to fashion-forward shoppers who love eclectic, globally-inspired looks.
+
+---
+
+## Pages
+
+### בית
+https://tzizin-s-2631959c.zappy5.app
+חנות אופנה מקוונת שמשלבת אנרגיה אורבנית של ברשקה וזארה עם נגיעות קז&#39;ואל ורומנטיות. היכנסו עכשיו לרענן את המלתחה במחירים שווים לכל כיס!
+
+### סיפורי סטייל
+https://tzizin-s-2631959c.zappy5.app/style-stories
+צללו לעולם ההשראות שמאחורי הקולקציות – מברשקה וזארה ועד סטרדיווריוס ופול אנד בר. קראו את סיפורי הסטייל שמחברים בין תרבויות לטרנדים הכי חמים.
+
+### לוקבוק
+https://tzizin-s-2631959c.zappy5.app/lookbook
+דפדפו בלוקבוק העונתי שלנו וקבלו השראה להרכבים ייחודיים שממזגים את הווייב של זארה, ברשקה, פול אנד בר וסטרדיווריוס. התחילו לבנות את הלוק המושלם שלכן עוד היום!
+
+### אודות
+https://tzizin-s-2631959c.zappy5.app/about
+הכירו את הסיפור שמאחורי Tzizin&#39;s – מותג שמחבר בין אנרגיית אולד נייבי, ברשקה וזארה לרומנטיקה של דה רוקוקו. גלו איך אנחנו בונים ארון בגדים רב-תרבותי במחירים נגישים.
+
+### צור קשר
+https://tzizin-s-2631959c.zappy5.app/contact
+יש שאלה על מידה, משלוח או טרנד? צרו קשר עם צוות Tzizin&#39;s ותקבלו מענה אישי ומהיר. נשמח לעזור לך ליצור את הלוק המושלם מברשקה, זארה ומעבר.
+
+### Products
+https://tzizin-s-2631959c.zappy5.app/products
+המוצרים שלנו - Tzizin's
+
+### Cart
+https://tzizin-s-2631959c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://tzizin-s-2631959c.zappy5.app/checkout
+תשלום
+
+### Login
+https://tzizin-s-2631959c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://tzizin-s-2631959c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://tzizin-s-2631959c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://tzizin-s-2631959c.zappy5.app/product/:slug
+פרטי המוצר - Tzizin's
+
+### Category
+https://tzizin-s-2631959c.zappy5.app/category/:slug
+מוצרים - Tzizin's
+
+### תודה שפנית אלינו
+https://tzizin-s-2631959c.zappy5.app/thank-you
+Tzizin's - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://tzizin-s-2631959c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://tzizin-s-2631959c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://tzizin-s-2631959c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Tzizin's
+An online fashion store inspired by a bold mix of global style influences — combining the casual Americana vibe of Old Navy, the trendy urban energy of Bershka and Zara, the edgy streetwear attitude of Addict, and the ornate, romantic flair of De Rococo. The brand blends accessible everyday fashion with high-style aesthetic references, creating a unique multi-cultural wardrobe experience that appeals to fashion-forward shoppers who love eclectic, globally-inspired looks.
+
+## Target Audience
+- נשים צעירות אופנתיות
+- מחפשי אופנה בתקציב
+- קונים בהשפעת רשתות חברתיות
+- משפיענים
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://tzizin-s-2631959c.zappy5.app/sitemap.xml
+- Robots: https://tzizin-s-2631959c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://tzizin-s-2631959c.zappy5.app/llms-full.txt
+- Products (JSON): https://tzizin-s-2631959c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://tzizin-s-2631959c.zappy5.app/product-feed.xml
