@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://tzizin-s-2631959c.zappy5.app
+https://example.com
 חנות אופנה מקוונת שמשלבת אנרגיה אורבנית של ברשקה וזארה עם נגיעות קז&#39;ואל ורומנטיות. היכנסו עכשיו לרענן את המלתחה במחירים שווים לכל כיס!
 
 ### סיפורי סטייל
-https://tzizin-s-2631959c.zappy5.app/style-stories
+https://example.com/style-stories
 צללו לעולם ההשראות שמאחורי הקולקציות – מברשקה וזארה ועד סטרדיווריוס ופול אנד בר. קראו את סיפורי הסטייל שמחברים בין תרבויות לטרנדים הכי חמים.
 
 ### לוקבוק
-https://tzizin-s-2631959c.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפו בלוקבוק העונתי שלנו וקבלו השראה להרכבים ייחודיים שממזגים את הווייב של זארה, ברשקה, פול אנד בר וסטרדיווריוס. התחילו לבנות את הלוק המושלם שלכן עוד היום!
 
 ### אודות
-https://tzizin-s-2631959c.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור שמאחורי Tzizin&#39;s – מותג שמחבר בין אנרגיית אולד נייבי, ברשקה וזארה לרומנטיקה של דה רוקוקו. גלו איך אנחנו בונים ארון בגדים רב-תרבותי במחירים נגישים.
 
 ### צור קשר
-https://tzizin-s-2631959c.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או טרנד? צרו קשר עם צוות Tzizin&#39;s ותקבלו מענה אישי ומהיר. נשמח לעזור לך ליצור את הלוק המושלם מברשקה, זארה ומעבר.
 
 ### Products
-https://tzizin-s-2631959c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Tzizin's
 
 ### Cart
-https://tzizin-s-2631959c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://tzizin-s-2631959c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://tzizin-s-2631959c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://tzizin-s-2631959c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://tzizin-s-2631959c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://tzizin-s-2631959c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Tzizin's
 
 ### Category
-https://tzizin-s-2631959c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Tzizin's
 
 ### תודה שפנית אלינו
-https://tzizin-s-2631959c.zappy5.app/thank-you
+https://example.com/thank-you
 Tzizin's - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://tzizin-s-2631959c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://tzizin-s-2631959c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://tzizin-s-2631959c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://tzizin-s-2631959c.zappy5.app/sitemap.xml
-- Robots: https://tzizin-s-2631959c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://tzizin-s-2631959c.zappy5.app/llms-full.txt
-- Products (JSON): https://tzizin-s-2631959c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://tzizin-s-2631959c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
